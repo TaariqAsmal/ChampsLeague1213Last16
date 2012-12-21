@@ -23,7 +23,6 @@ public class Champs1 {
         
         // 0 : Team can not play against this opponent
         // 1 : team can play against this opponent
-        
         //teams[x][1]: PSG
         //teams[x][2]: Schalke 04
         //teams[x][3]: Malaga
@@ -33,6 +32,9 @@ public class Champs1 {
         //teams[x][7]: Barcelona
         //teams[x][8]: Manchester United
         
+        
+        // 0 : Team has not been assigned an opponent
+        // 1 : Team has been assigned an opponent   
         //used[0]: PSG
         //used[1]: Schalke 04
         //used[2]: Malaga
