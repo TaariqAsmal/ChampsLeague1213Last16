@@ -134,7 +134,10 @@ public class Champs1 {
         System.out.println("Total Possible game combinations:");
         
         System.out.println(match(teams, used, 0));
-       
+        
+        //Output:
+        //Total Possible game combinations:
+        //5463       
     }
     
     //method uses recursion to determine possible combinations
